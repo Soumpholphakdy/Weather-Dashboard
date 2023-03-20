@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.forecast {
+    font-size: 0.9em;
+}
+
+.navbar {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 16px;
+    background-color: slategray;
+    padding: 14px 16px;
+}
+
+.city-name {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+p.current,
+.city-name {
+    color: black;
+}
+
+p {
+    color: white;
+}
+
+.row{
+    background-color: whitesmoke;
+}
