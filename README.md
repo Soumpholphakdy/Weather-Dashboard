@@ -20,4 +20,4 @@ A weather application that will allow user to input a location, click search, an
 
 <br>
 
-![Preview of homepage]()
+![Preview of homepage](./assets/weather-dashboard.png)
