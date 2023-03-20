@@ -16,7 +16,7 @@ A weather application that will allow user to input a location, click search, an
 
 ## Wesbite Preview
 
-### <ins>[Weather Dashboard]()</ins>
+### <ins>[Weather Dashboard](https://soumpholphakdy.github.io/Weather-Dashboard/)</ins>
 
 <br>
 
